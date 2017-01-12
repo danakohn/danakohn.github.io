@@ -4,8 +4,8 @@ html {
 
 body {
     overflow: hidden;
-    height: 100%;background-image: url(http://s3.ama
-zonaws.com/www.danakohn.com/img/fireworks.jpg);
+    height: 100%;
+    background-image: url(http://s3.amazonaws.com/www.danakohn.com/img/fireworks.jpg);
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
